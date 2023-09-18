@@ -1,7 +1,5 @@
 
 ### currently under construction
----
-### Tools
 <div style="
  width: 100%;
  height: 40px;
@@ -15,5 +13,5 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:32px;padding:3px;float:left;"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="height:32px;padding:3px;float:left;"/>
 </div>
-### Socials
- [![LinkedIn](https://github.com/neanix/neanix/blob/main/linkedin-icon.svg)](https://www.linkedin.com/in/navid-hamedi/)
+
+[![LinkedIn](https://github.com/neanix/neanix/blob/main/linkedin-icon.svg)](https://www.linkedin.com/in/navid-hamedi/)
